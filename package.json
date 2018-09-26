@@ -1,0 +1,27 @@
+{
+  "name": "unity-submodule-add",
+  "version": "1.0.0",
+  "description": "npx tool to add a Unity submodule into another Unity project",
+  "main": "index.js",
+  "bin": {
+    "add-submodule": "bin/addsubmodule.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmriordan/unity-submodule-add.git"
+  },
+  "keywords": [
+    "unity",
+    "submodule",
+    "git"
+  ],
+  "author": "Paul Riordan <paulmriordan@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmriordan/unity-submodule-add/issues"
+  },
+  "homepage": "https://github.com/paulmriordan/unity-submodule-add#readme"
+}

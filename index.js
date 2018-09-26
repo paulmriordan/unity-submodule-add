@@ -1,0 +1,1 @@
+throw new Error("This package is not supposed to be used directly.");
